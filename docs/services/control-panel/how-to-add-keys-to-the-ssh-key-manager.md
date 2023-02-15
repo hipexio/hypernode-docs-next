@@ -20,7 +20,7 @@ You can add SSH Keys to your Hypernode(s) via the Control Panel by following the
 
 1. Log in to your [Control Panel](https://my.hypernode.com/)
 1. Hover over your name in the upper right corner and select **Account Settings** from the dropdown menu.
-1. Scroll down to SSH Keys and click the **Add SSH Key\*\*\*\*button**.![](_res/_AA9GuS_iIxqyGZzhz3HXsnyjfJbK6OgCg.png)
+1. Scroll down to SSH Keys and click the **Add SSH Key** button.![](_res/_AA9GuS_iIxqyGZzhz3HXsnyjfJbK6OgCg.png)
 1. Paste the content of your public key into the public key field and give your SSH key a name.
 1. Click on the **Add SSH key button** to add the key to the Key Manager
 1. Congrats! Your key will now be added to all Hypernodes you have access to.
@@ -33,11 +33,11 @@ Need to add an SSH key to just **one** Hypernode (e.g. SSH keys that are used to
 
 1. Log in to the [Control Panel](http://my.hypernode.com/).
 1. From the Hypernode overview, select a specific Hypernode by clicking on **Details**.
-1. Then hover over **Hypernodes**in the sidebar and select **SSH keys:**![](_res/QokjVal8JXaXKRi31vF2NfDHx2vQBwGqIg.png)
-1. You can add a new key on this page by clicking the **Add SSH key**button. You'll also see an overview of previously added keys.
+1. Then hover over **Hypernodes** in the sidebar and select **SSH keys:**![](_res/QokjVal8JXaXKRi31vF2NfDHx2vQBwGqIg.png)
+1. You can add a new key on this page by clicking the **Add SSH key** button. You'll also see an overview of previously added keys.
 1. On the next page, paste the content of your public key into the public key field and give your SSH key a name:
    ![](_res/EI02jBqtNAQAUR9_lf5Lh0NvNM6vjm2nSQ.png)
-1. Click **Add SSH key**to add the key to the Hypernode.
+1. Click **Add SSH key** to add the key to the Hypernode.
 
 ## Important
 
